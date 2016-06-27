@@ -1,0 +1,14 @@
+layout_spectrum: 0.3745329559314996
+typography_spectrum: 0.9851652819197625
+color:
+  brandStrength: 0.4152001903858036
+  lightness: 0.17648544791154563
+  saturation: 0.10550363501533866
+  rhythmicContrast: 0.20035573351196945
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: futureisblank
